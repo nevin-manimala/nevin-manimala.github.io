@@ -16,4 +16,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### About this Github Page
 
-Built with [Jekyll Now](http://github.com/barryclark/jekyll-now/)
+Forked from [Jekyll Now](http://github.com/barryclark/jekyll-now/)
